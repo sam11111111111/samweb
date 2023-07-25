@@ -1,0 +1,170 @@
+#hhh1hhh{
+	font-family: font1;
+	color: #fff;
+	font-size: 25px;
+}
+#nor{
+	font-size: 18px;
+	color: #fff;
+	 text-align: justify;
+
+}
+
+#hhh{
+	font-family: font;
+font-size: 14px;
+color: #fff;
+}
+#h1{
+		text-decoration-line: none;
+		color: #fff;
+		font-size: 30px;
+	}
+#h2{
+		text-decoration-line: none;
+		color: #fff;
+		font-family: none;
+	}
+
+#h{
+		text-decoration-line: none;
+		color: #fff;
+		
+	}
+
+#no{
+	color: #fff;
+	position: absolute;
+	left: 50%;
+}
+
+#home:hover{
+	transform: scale(1.2);
+	color: #f2aa4cff;
+	cursor: grab;
+}
+
+#about:hover{
+	transform: scale(1.2);
+	cursor: grab;
+	color: #f2aa4cff;
+}
+
+
+#what:hover{
+	transform: scale(1.2);
+	cursor: grab;
+	color: #f2aa4cff;
+}
+
+#contact:hover{
+	transform: scale(1.2);
+	cursor: grab;
+	color: #f2aa4cff;
+}
+
+#wee{
+	position: absolute;
+	left: 18%;
+	top: 289.6%;
+}
+
+
+#imm{
+	position: relative;
+	right: 30px;
+	bottom: 30px;
+	height: 300px;
+	
+}
+
+
+#im{
+	position: relative;
+	right: 30px;
+	bottom: 30px;
+
+}
+
+
+#ima{
+	width: 120%;
+	height: 120%;
+}
+
+
+#shisha{
+	color: gray;
+	font-size: 15px;
+	opacity: 0.3;
+	font-family: normal;
+}
+
+
+#sing{
+	text-decoration: none;
+
+}
+
+.let:hover{
+	color: gray;
+}
+.let{
+	border: none;
+	background-color: #2d2926ff;
+	padding: 20px 40px;
+	font-size: 40px;
+	position: relative;
+	color:#ffa500 ;
+	border: 3px solid #ffa500;
+	cursor: pointer;
+	transition: all 0.7s;
+	overflow: hidden;
+	border-radius: 100px;
+}
+span{
+	transition: all 0.7s;
+	z-index: -1;
+}
+
+
+
+
+
+.form{
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+}
+.input{
+padding:15px 20px;
+margin:15px;
+width:40%;
+border: solid;
+outline:none;
+border-radius:25px;
+
+}
+#message{
+margin:15px;
+padding:10px;
+height: 160px;
+border-radius:20px;
+}
+
+#submit{
+padding:15px 20px;
+margin:30px;
+width:15%;
+border-radius:20px;
+background-color:black;
+color:white;
+border:none;
+outline:none;
+}
+#submit:hover{
+background-color:gray;
+color:white;
+cursor:pointer;
+}
