@@ -1,0 +1,61 @@
+
+img{
+  border: 2px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 30%; /* Set a small width */
+  
+  position: relative;
+
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 4px rgba(250, 171, 120, 0.5);
+}
+.p1{
+  border: solid;
+  width: 40%;
+  border-color: black;
+  position: absolute;
+  left: 5%;
+}
+.d{
+ 
+
+   position: absolute;
+  left: 60%;
+  top: 10%;
+}
+.d1{
+  
+ 
+  
+  position: absolute;
+
+ size: 200px;
+  top: 50%;
+  left: 5%;
+}
+.d2{
+ 
+
+   position: absolute;
+  left: 60%;
+  top: 80%;
+}
+.ww{
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  border: solid;
+  border-color: black;
+}
+
+.ww1{
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  border: solid;
+  border-color: black;
+}
